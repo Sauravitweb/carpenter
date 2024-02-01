@@ -170,6 +170,13 @@ color: aqua;
     align-items: flex-start;
     justify-content: center;
 }
+.slidd{
+position: absolute;
+ transform: translate(-50%,-50%);
+ overflow: hidden;
+ box-shadow: 10px 25px 30px rgba (30,30,200,0.3);
+
+ 
 #hero h4 {
     padding-bottom: 15px;
 }
