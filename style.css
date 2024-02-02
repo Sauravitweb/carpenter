@@ -530,7 +530,7 @@ width: 160px;
 }
 /*shop page*/
 #page-header {
-    background-image: url(/imagess/n6.jpg);
+    background-image: url(/img/n61.jpg);
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -620,7 +620,7 @@ padding: 40px 0 20px 0;
 }
 /*blog header*/
 #page-header.blog-header{
-    background-image: url("/imagess/n5.jpg");
+    background-image: url("/img/n20.jpg");
 }
 #blog{
     padding: 150px 150px 0 150px;
@@ -683,7 +683,7 @@ z-index: -8;
 }
 /*About page */
 #page-header.about-header {
-    background-image: url("/imagess/n12.jpg");
+    background-image: url("/img/n12.jpg");
 }
 #about-head {
     display: flex;
