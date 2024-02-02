@@ -1061,9 +1061,10 @@ background-image: url("/img/logo.png");
     width: 100%;
  bottom: 20px;
  padding: 10 15px;
+ display: none;
     background-size: contain;
     background-repeat: no-repeat;
-    display: flex;
+    
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
