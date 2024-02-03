@@ -252,7 +252,7 @@ background-color: rgb(71, 30, 165);
 }
 
 #product1 .pro{
-width: 23%;
+width: 100%;
 min-width: 250px;
 padding: 10px 12px;
 border: 1px solid #cce7d0;
@@ -306,18 +306,7 @@ position: relative;
     bottom: 20px;
     right: 10px;
 }
-#prodetails {
-    display: flex;
-  flex-direction: column;
-}
 
-#prodetails .single-pro-image{
-    width: 100%;
-  margin-right: 0px;
-}
-#prodetails .single-pro-details{
-    width: 100%;
-}
 #banner{
     display: flex;
     flex-direction: column;
