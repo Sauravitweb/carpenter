@@ -247,12 +247,12 @@ background-color: rgb(71, 30, 165);
     display: flex;
     justify-content: space-between;
     padding-top: 20px; 
-    flex-wrap: no wrap;
+    flex-wrap: wrap;
 
 }
 
 #product1 .pro{
-width: 100%;
+width: 75%;
  
 min-width: 250px;
 padding: 10px 12px;
