@@ -261,6 +261,7 @@ background-color: rgb(71, 30, 165);
       display: none;
       justify-content: center;
       align-items: center;
+     z-index: 1000;
     }
 
     /* Add styling for the zoomed-in image */
